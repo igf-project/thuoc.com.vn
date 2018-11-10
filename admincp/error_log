@@ -1,0 +1,213 @@
+[14-Apr-2016 21:45:58 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[14-Apr-2016 23:29:16 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:29:19 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:29:21 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:29:22 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:29:30 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:29:52 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:29:53 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:30:02 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:31:55 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:32:21 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:32:22 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:32:22 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:32:23 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:32:41 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:32:43 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:32:44 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:33:23 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:33:39 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:34:10 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:34:11 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:34:12 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:34:12 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:34:12 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:34:12 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 3
+[14-Apr-2016 23:36:46 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONFIG::load_config() in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 4
+[14-Apr-2016 23:36:49 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONFIG::load_config() in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 4
+[14-Apr-2016 23:36:49 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONFIG::load_config() in /home/nhbotq3n/public_html/admincp/templates/default/home.php on line 4
+[15-Apr-2016 15:42:18 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/nhbotq3n/public_html/admincp/includes/gfconfig.php on line 80
+[15-Apr-2016 15:42:20 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/nhbotq3n/public_html/admincp/includes/gfconfig.php on line 80
+[15-Apr-2016 17:33:09 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[16-Apr-2016 14:42:27 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[16-Apr-2016 14:42:32 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[16-Apr-2016 14:44:30 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[16-Apr-2016 14:44:34 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[19-Apr-2016 21:06:20 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[19-Apr-2016 21:06:23 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[19-Apr-2016 21:06:39 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[19-Apr-2016 21:11:31 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[19-Apr-2016 21:30:01 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/add.php on line 157
+[19-Apr-2016 22:37:03 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/add.php on line 157
+[20-Apr-2016 11:44:24 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 12:10:43 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 12:13:45 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 13:15:31 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 13:15:34 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 13:15:37 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 13:35:06 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 13:50:11 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 13:53:01 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 13:53:04 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:02:32 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:02:38 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:03:55 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:17:58 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:18:08 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:22:42 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:47:04 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 14:59:55 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 15:02:45 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 15:06:04 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 15:13:03 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 15:13:15 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 15:47:55 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:48:03 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:50:19 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:51:46 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:51:55 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:52:48 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:58:02 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:58:08 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:58:37 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:59:17 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:59:26 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 15:59:53 Asia/Saigon] PHP Fatal error:  Class 'CLS_GALLERY' not found in /home/nhbotq3n/public_html/admincp/components/com_gallery/layout.php on line 8
+[20-Apr-2016 15:59:59 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 16:00:01 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_GALLERY::Orders() in /home/nhbotq3n/public_html/admincp/components/com_gallery/task/order.php on line 11
+[20-Apr-2016 16:34:06 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 16:34:09 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 16:34:11 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 16:34:12 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 16:34:13 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 16:34:17 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 16:37:05 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 17:10:03 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[20-Apr-2016 17:51:18 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[20-Apr-2016 17:51:26 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[20-Apr-2016 20:44:06 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[20-Apr-2016 20:45:20 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[20-Apr-2016 21:15:36 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 14
+[20-Apr-2016 21:16:58 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 14
+[20-Apr-2016 21:17:26 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 15
+[20-Apr-2016 21:18:21 Asia/Saigon] PHP Fatal error:  Class 'CLS_CONFIG' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 15
+[20-Apr-2016 21:20:05 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 77
+[20-Apr-2016 21:20:47 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:20:51 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:22:59 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:23:23 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:23:50 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:24:33 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:24:56 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:26:32 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[20-Apr-2016 21:37:03 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 82
+[20-Apr-2016 21:37:24 Asia/Saigon] PHP Fatal error:  Class 'CLS_BOX' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 82
+[20-Apr-2016 21:38:00 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 101
+[20-Apr-2016 21:38:57 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 101
+[20-Apr-2016 21:39:01 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 101
+[20-Apr-2016 21:39:24 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 101
+[20-Apr-2016 21:39:28 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 101
+[20-Apr-2016 21:39:42 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 101
+[20-Apr-2016 21:40:18 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 101
+[20-Apr-2016 21:40:33 Asia/Saigon] PHP Fatal error:  Class 'CLS_POST' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 104
+[20-Apr-2016 22:14:10 Asia/Saigon] PHP Fatal error:  Class 'CLS_MAILER' not found in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 63
+[20-Apr-2016 22:16:26 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:16:32 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:17:01 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:17:04 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:17:14 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:17:18 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:17:22 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:18:28 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:18:29 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:18:44 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:18:46 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:19:18 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:19:31 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 161
+[20-Apr-2016 22:19:36 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 161
+[20-Apr-2016 22:19:53 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 161
+[20-Apr-2016 22:20:24 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 161
+[20-Apr-2016 22:21:08 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 161
+[20-Apr-2016 22:21:51 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 144
+[20-Apr-2016 22:22:15 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 144
+[20-Apr-2016 22:22:42 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:22:48 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:23:13 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:23:39 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:24:23 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:26:06 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:27:40 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:28:02 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 144
+[20-Apr-2016 22:29:11 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[20-Apr-2016 22:29:48 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:30:25 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:30:33 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 143
+[20-Apr-2016 22:30:50 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 144
+[20-Apr-2016 22:30:59 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 141
+[20-Apr-2016 22:31:56 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 159
+[20-Apr-2016 22:33:04 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 160
+[20-Apr-2016 22:35:18 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[20-Apr-2016 22:35:27 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[20-Apr-2016 22:37:20 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 106
+[20-Apr-2016 22:38:10 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[20-Apr-2016 22:38:40 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 106
+[20-Apr-2016 22:41:18 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[21-Apr-2016 10:24:02 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[21-Apr-2016 11:26:06 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[21-Apr-2016 11:26:11 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[21-Apr-2016 11:26:18 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[21-Apr-2016 11:26:21 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[21-Apr-2016 13:18:00 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[21-Apr-2016 13:18:04 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[21-Apr-2016 13:23:05 Asia/Saigon] PHP Parse error:  syntax error, unexpected ',' in /home/nhbotq3n/public_html/admincp/includes/gfconfig.php on line 88
+[21-Apr-2016 13:23:11 Asia/Saigon] PHP Parse error:  syntax error, unexpected ',' in /home/nhbotq3n/public_html/admincp/includes/gfconfig.php on line 88
+[21-Apr-2016 13:23:27 Asia/Saigon] PHP Warning:  require_once(TEM_PATHdefault/home.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/admincp/libs/cls.template.php on line 53
+[21-Apr-2016 13:23:27 Asia/Saigon] PHP Fatal error:  require_once(): Failed opening required 'TEM_PATHdefault/home.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/admincp/libs/cls.template.php on line 53
+[21-Apr-2016 18:08:01 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[21-Apr-2016 18:11:58 Asia/Saigon] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/nhbotq3n/public_html/admincp/libs/cls.book.php on line 155
+[21-Apr-2016 18:14:46 Asia/Saigon] PHP Warning:  require_once(libs/cls.booking.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/admincp/components/com_booking/layout.php on line 5
+[21-Apr-2016 18:14:46 Asia/Saigon] PHP Fatal error:  require_once(): Failed opening required 'libs/cls.booking.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/admincp/components/com_booking/layout.php on line 5
+[22-Apr-2016 10:27:26 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[22-Apr-2016 10:27:34 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[22-Apr-2016 10:27:51 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[22-Apr-2016 10:29:41 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[22-Apr-2016 10:37:08 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 145
+[22-Apr-2016 10:41:58 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 106
+[22-Apr-2016 10:42:18 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 106
+[22-Apr-2016 10:42:58 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 108
+[22-Apr-2016 10:43:24 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 109
+[22-Apr-2016 10:43:27 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 109
+[22-Apr-2016 10:43:38 Asia/Saigon] PHP Parse error:  syntax error, unexpected ';', expecting variable (T_VARIABLE) or '$' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 109
+[25-Apr-2016 09:54:37 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 10:51:26 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 10:52:22 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 10:55:34 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 10:55:51 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 10:57:01 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 10:57:33 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 21:39:55 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 21:40:24 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 21:40:39 Asia/Saigon] PHP Warning:  implode(): Invalid arguments passed in /home/nhbotq3n/public_html/admincp/components/com_menufood/layout.php on line 23
+[25-Apr-2016 22:38:36 Asia/Saigon] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nhbotq3n/public_html/admincp/components/com_catalogs/task/list.php on line 14
+[25-Apr-2016 22:39:33 Asia/Saigon] PHP Parse error:  syntax error, unexpected '$keyword' (T_VARIABLE) in /home/nhbotq3n/public_html/admincp/components/com_catalogs/task/list.php on line 13
+[25-Apr-2016 23:18:14 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/add.php on line 157
+[25-Apr-2016 23:31:00 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[25-Apr-2016 23:31:05 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[25-Apr-2016 23:31:09 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[26-Apr-2016 15:03:39 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[26-Apr-2016 15:03:42 Asia/Saigon] PHP Fatal error:  Class 'CLS_CATE' not found in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 144
+[26-Apr-2016 15:03:46 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 161
+[27-Apr-2016 08:25:47 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 161
+[27-Apr-2016 08:29:46 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 162
+[27-Apr-2016 08:29:49 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/edit.php on line 162
+[27-Apr-2016 08:30:50 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/add.php on line 157
+[27-Apr-2016 08:31:22 Asia/Saigon] PHP Fatal error:  Call to undefined method CLS_CONTENTS::LoadConten() in /home/nhbotq3n/public_html/admincp/components/com_mnuitem/task/add.php on line 157
+[27-May-2016 15:23:57 Asia/Saigon] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 52
+[27-May-2016 15:24:05 Asia/Saigon] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 52
+[27-May-2016 15:30:38 Asia/Saigon] PHP Warning:  Invalid argument supplied for foreach() in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 64
+[27-May-2016 16:02:37 Asia/Saigon] PHP Warning:  Attempt to assign property of non-object in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 78
+[27-May-2016 16:02:37 Asia/Saigon] PHP Warning:  Attempt to assign property of non-object in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 79
+[27-May-2016 16:02:37 Asia/Saigon] PHP Warning:  Attempt to assign property of non-object in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 80
+[27-May-2016 16:02:37 Asia/Saigon] PHP Warning:  Attempt to assign property of non-object in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 81
+[27-May-2016 16:02:37 Asia/Saigon] PHP Warning:  Attempt to assign property of non-object in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 82
+[27-May-2016 16:02:37 Asia/Saigon] PHP Fatal error:  Call to a member function SendMail() on array in /home/nhbotq3n/public_html/admincp/components/com_users/task/send_mail.php on line 84

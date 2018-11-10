@@ -1,0 +1,339 @@
+@media(min-width: 320px) AND (max-width: 479px){
+   /* .thumb-food{
+        width: 100%;
+        height: 100px;
+    }*/
+
+    .thumb-news1{
+        width: 100%;
+        height: 78px;
+    }
+}
+@media(min-width: 480px) AND (max-width: 767px){
+    .thumb-food{
+        width: 100%;
+        height: 140px;
+    }
+
+    .thumb-news1{
+        width: 100%;
+        height: 95px;
+    }
+}
+@media(max-width: 767px){
+    .box-booking .form-group{
+        margin-bottom: 8px;
+    }
+    .slogan{
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .title-form h3{
+        font-size: 16px;
+        padding: 8px 10px 6px 10px;
+    }
+   .form-btn{
+        text-align: center;
+    }
+    .box-news .title{
+        font-size: 18px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .box-sent .container{
+       padding: 0px;
+    }
+    .box-news,
+    .box-food{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .box-news .item p,
+    .box-news .item .btn-readmore,
+    .box-news .item .date{
+        display: none;
+    }
+    .box-news .item{
+        margin-bottom: 20px;
+        overflow: hidden;
+    }
+    .box-news .item .name{
+        margin: 0px;
+        padding: 0px;
+        text-transform: none;
+    }
+    .box-news .item img{
+        width: 120px;
+        float: left;
+        margin-right: 10px;
+    }
+    .name{
+        font-size: 16px;
+        text-align: left;
+    }
+    .wrapper .navbar.navbar-inverse{
+        background-color: rgba(0,0,0 , 0.8);
+    }
+    .navitor .navbar-toggle{
+        float: left;
+    }
+    .navitor .logo{
+        position: absolute;
+        left: 50%;
+        top: 5px;
+        width: 40px;
+        height: 40px;
+        margin-left: -20px;
+    }
+	.slidershow{
+		margin-left: -6px;
+		margin-right: -6px;
+	}
+	.owl-item {
+		padding-left: 6px;
+		padding-right: 6px;
+	}
+    .box-food{
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .box-user-about,
+    .box-booking,
+    .box-about,
+    .list-food,
+    .footer,
+    .contact-form,
+    .box-news{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .box-booking h2.slogan{
+        margin: 0px 0px 12px 0px;
+    }
+    .box-food .item .name{
+        margin: 6px 0px 0px 0px;
+        height: 38px;
+        overflow: hidden;
+        text-align: center;
+    }
+    .box-food .item p{
+        display: none;
+    }
+    .box-food .item{
+        padding-bottom: 5px;
+    }
+    .title-main{
+        font-size: 18px;
+        line-height: 24px;
+        margin: 0px 0px 15px 0px;
+    }
+    .box-user-about .box-btn{
+        margin-bottom: 30px;
+    }
+    .box-user-about .box-btn,
+    .box-about .box-btn{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .box-user-about .title-main{
+        color: #f48124;
+    }
+    .box-showroom .item{
+        margin-bottom: 30px;
+        border-bottom: 1px solid #d7d7d7;
+        padding-bottom: 30px;
+    }
+    .box-showroom .item:last-child{
+        border: none;
+    }
+    .box-showroom{
+        padding-top: 40px;
+    }
+    .list-food .row{
+        margin-left: -8px;
+        margin-right: -8px;
+    }
+    .list-food .col-item{
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .list-food .item h3{
+        font-size: 18px;
+    }
+    .box-booking .form-control{
+        padding: 2px 2px;
+    }
+}
+@media(min-width: 768px){
+    .box-user-about .box-btn,
+    .box-about .box-btn{
+        margin-top: 30px;
+    }
+    .list-food .item h3{
+        font-size: 26px;
+    }
+    .box-showroom{
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    .box-showroom .item{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .box-user-about .title-main{
+        color: #f48124;
+        padding-top: 30px;
+        margin-bottom: 20px;
+    }
+    .title-main{
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .box-food .item{
+        padding-bottom: 20px;
+    }
+	.slidershow{
+		margin-left: -15px;
+		margin-right: -15px;
+	}
+	.owl-item {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+    .menu{
+        float: right;
+    }
+    .wrapper .navbar.navbar-inverse{
+        background-color: rgba(0,0,0 , 0.6);
+        min-height: 74px;
+    }
+    .navitor{
+        position: relative;
+    }
+    .wrapper .navbar,
+    .navitor #navbar{
+        border: none;
+    }
+    .navbar-inverse .navitor  .navbar-nav>li>a{
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 14px;
+        color: #fff;
+        font-weight: bold;
+        height: 74px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        line-height: 74px;
+
+    }
+    .navbar-inverse .navitor  .navbar-nav li.active a,
+    .navbar-inverse .navitor  .navbar-nav li a:hover{
+        background-color: rgba(0,0,0 , 0.3);
+        border-bottom: 2px solid red;
+    }
+    .navitor .logo{
+        position: absolute;
+        left: 0;
+        top: -15px;
+        width: 105px;
+        height: 105px;
+    }
+    .wrapper .navbar-wrapper{
+        top: 30px;
+    }
+    .name{
+        text-transform: uppercase;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .list-food,
+    .footer,
+    .contact-form,
+    .box-news,
+    .box-food{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .box-sent .box-frm{
+        float: right;
+    }
+  /*  .box-news .title{
+        font-size: 32px;
+        font-weight: bold;
+    }*/
+    .slogan{
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .box-about,
+    .box-booking{
+        padding-top: 20px;
+    }
+    .title-form h3{
+        font-size: 24px;
+        padding: 10px 15px 6px 15px;
+    }
+    .thumb-news1{
+        width: 100%;
+        height: 135px;
+    }
+    .box-news .name{
+        height: 40px;
+        overflow: hidden;
+    }
+   /* .thumb-food {
+        width: 100%;
+        height: 100px;
+    }*/
+}
+@media(min-width: 1200px){
+    .container{
+        width: 1000px;
+    }
+  /*  .thumb-food {
+        width: 100%;
+        height: 180px;
+    }*/
+    #slide-main{
+        height: 525px;
+    }
+}
+
+/* Fix height slider main */
+@media(max-width:359px){
+    #slide-main{
+        height: 145px;
+    }
+
+}
+@media(min-width: 360px) and (max-width: 480px){
+    #slide-main{
+        height: 180px;
+    }
+}
+@media(min-width: 481px) and (max-width: 767px){
+    #slide-main{
+        height: 240px;
+    }
+}
+@media(min-width: 768px) and (max-width: 1024px){
+    #slide-main{
+        height: 340px;
+    }
+    .wrapper .navbar-wrapper{
+        position: absolute;
+    }
+    .wrapper .navbar-inverse .navitor .navbar-nav>li>a{
+        padding: 0px 5px;
+        font-size: 13px;
+    }
+    .box-slogan p{
+        display: none;
+    }
+}
+@media(min-width: 1025px) AND (max-width: 1200px){
+    #slide-main{
+        height: 420px;
+    }
+}

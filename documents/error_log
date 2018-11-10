@@ -1,0 +1,10 @@
+[05-Jul-2016 09:22:00 Asia/Ho_Chi_Minh] PHP Warning:  fopen(CNHQ/QD1996-QD_BCT.pdf): failed to open stream: No such file or directory in /home/quatest1/public_html/documents/download.php on line 27
+[05-Jul-2016 09:22:00 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/quatest1/public_html/documents/download.php on line 51
+[05-Jul-2016 09:27:31 Asia/Ho_Chi_Minh] PHP Warning:  fopen(CNHQ/DanhsachkhachhangCNHQ-CTE-mi.xls39-cng-ty.pdf): failed to open stream: No such file or directory in /home/quatest1/public_html/documents/download.php on line 27
+[05-Jul-2016 09:27:31 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/quatest1/public_html/documents/download.php on line 51
+[05-Jul-2016 09:28:18 Asia/Ho_Chi_Minh] PHP Warning:  fopen(CNHQ/DanhsachkhachhangCNHQ-CTE-mi.xls39-cng-ty.pdf): failed to open stream: No such file or directory in /home/quatest1/public_html/documents/download.php on line 27
+[05-Jul-2016 09:28:18 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/quatest1/public_html/documents/download.php on line 51
+[05-Jul-2016 09:32:45 Asia/Ho_Chi_Minh] PHP Warning:  fopen(QD 11908-QD-BCT.pdf/QD11908-QD-BCT.pdf): failed to open stream: No such file or directory in /home/quatest1/public_html/documents/download.php on line 27
+[05-Jul-2016 09:32:45 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/quatest1/public_html/documents/download.php on line 51
+[05-Jul-2016 09:45:16 Asia/Ho_Chi_Minh] PHP Warning:  fopen(http:/DanhsachkhachhangCNHQ-Phn-bn2016.pdf): failed to open stream: No such file or directory in /home/quatest1/public_html/documents/download.php on line 27
+[05-Jul-2016 09:45:16 Asia/Ho_Chi_Minh] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/quatest1/public_html/documents/download.php on line 51

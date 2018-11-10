@@ -1,0 +1,22 @@
+﻿tbl_dichvu	(tbl_service)   	(Ma, TenDV, Url, TomTat, NgayTao, TrangThai)
+tbl_danggoi	(tbl_packet_type)	(Ma, DangGoi)// Dạng gói tháng/ quý/ năm
+tbl_goicuoc	(tbl_packet)		(Ma,Ma_DangGoi, Ma_DichVu, TenGoi, Url, TomTat, NgayTao, TrangThai)
+tbl_hopdong	(tbl_contract) 		(Ma, Ma_Goi, Ma_DichVu,Ma_DangGoi, Ma_KhachHang,NgayTao,NgayKetThuc, DonGia, HetHan, HoanThanh, TrangThai)
+tbl_huyhopdong 	(tbl_contract_cancel)	(Ma_HopDong, NgayHuy)
+
+
+tbl_khuyenmai 	(tbl_sale)		(Ma, TieuDe, phantramkhuyenmai,NgayTao,TrangThai)
+tbl_khuyenmai_goicuoc(tbl_sale_packet)	(Ma_KhuyenMai, Ma_GoiCuoc)
+
+tbl_nhomtin 	(tbl_category)		(Ma, TenNhom, Url, TomTat, NgayTao, TrangThai)
+tbl_tintuc 	(tbl_contents)		(Ma, Ma_NhomTin, TieuDe,  Url,TomTat, NoiDung,HinhAnh,TacGia, LuotXem, Hot, NgayTao,NgaySua, TrangThai)
+
+tbl_khachhang 	(tbl_customer)		(Ma, HoTen, NgaySinh,GioiTinh, DiaChi,Email,DienThoai, TaiKhoan, MatKhau, NgayTao, TrangThai)
+tbl_hoadon 	(tbl_receipt)		(Ma, Ma_Goi, Ma_DichVu,Ma_DangGoi, Ma_KhachHang,HinhThucThanhToan, DaThanhToan, ThangNam)
+
+
+//He thong quan tri
+tbl_quyen	(tbl_gmember)		(Ma, TenQuyen, Mota, TrangThai)
+tbl_nguoidung	(tbl_member)		(Ma,Ma_Quyen, HoTen, NgaySinh,GioiTinh, DiaChi,Email,DienThoai, TaiKhoan, MatKhau, NgayTao, TrangThai)
+
+tbl_hopdong(phantramkhuyenmai,hethan: sử lý ngầm; Ngaykethuc,hoanthanh:tam chưa dùng)
